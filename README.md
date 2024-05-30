@@ -1,11 +1,11 @@
 <h1>
     <a href="https://www.dio.me/">
      <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
-    <span>Fábio Cantuário</span>
+    <span>Olá, sou Fábio Cantuário</span>
 </h1>
 
-Trabalho como Especialista de Suporte em Manaus-AM, Brasil, sou pos-graduado em Banco de Dados e formação em Desenvolvimento de Software.
-Não possuo experiência na área de desenvolvimento, tenho somente aprendizados de cursos e de minha formação, como: C++, Java, JavaScript, Python, PHP, HTML, CSS, Android, SQL e Oracle/MySQL.
+Atualmente trabalho em um empresa no Polo Industrial de Manaus-AM como Especialista em Suporte, sou pós-graduado em Banco de Dados e formação em Desenvolvimento de Software.
+Não possuo experiência na área de desenvolvimento, mas sempre estou me atualizando através de cursos presenciais e online quando possível, no decorrer dos tempos obtive conhecimento em algumas linguaguens como por exemplo: C++, Java, JavaScript, Python, PHP, HTML, CSS, Android, SQL e Oracle/MySQL.
 
 Tenho conhecimento e experiência na área de rede, firewall e hardware desktop/server.
 
