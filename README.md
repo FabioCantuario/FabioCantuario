@@ -5,9 +5,9 @@
 </h1>
 
 Atualmente trabalho em um empresa no Polo Industrial de Manaus-AM como Especialista em Suporte, sou pós-graduado em Banco de Dados e formação em Desenvolvimento de Software.
-Não possuo experiência na área de desenvolvimento, mas sempre estou me atualizando através de cursos presenciais e online quando possível, no decorrer dos tempos obtive conhecimento em algumas linguaguens, como exemplo: Java, Python, HTML, CSS, Android, SQL e Oracle/MySQL.
+Não possuo experiência na área de desenvolvimento, mas sempre estou me atualizando através de cursos presenciais e online quando possível, no decorrer do tempo obtive alguns conhecimentos na área de desenvolvimento, como exemplo: Java, C++, Python, HTML, CSS, JS, Android Studio, Godot, SQL/PLSQL e Oracle/MySQL.
 
-Tenho conhecimento e experiência na área de rede, firewall e hardware desktop/server.
+Além de conhecimento e experiência na área de infraestrutura de rede e server, firewall e hardware desktop/server.
 
 Gosto de diversos tipos de assuntos/áreas, já participei de muitos esportes, mas atualmente estou apenas me reciclando na área de tecnologia.
 
